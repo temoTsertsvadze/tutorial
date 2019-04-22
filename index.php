@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    
+    kkkkkkkkkkkkkkkkk
     <form action="form.php" method="POST">
 		
         <label>1) რას უდრის 5+10?</label><br>
